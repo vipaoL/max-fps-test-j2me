@@ -1,5 +1,6 @@
 MIDlet-Vendor: vipaoL
 MIDlet-Version: 1.0.3
+MIDlet-Info-URL: https://github.com/vipaoL/max-fps-test-j2me
 MicroEdition-Configuration: CLDC-1.0
 MIDlet-1: MaxFPSTest,,MaxFPSTest
 MIDlet-Name: Max FPS Test
