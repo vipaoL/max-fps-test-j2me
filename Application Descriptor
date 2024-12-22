@@ -1,0 +1,7 @@
+MIDlet-Vendor: vipaoL
+MIDlet-Version: 1.0.3
+MicroEdition-Configuration: CLDC-1.0
+MIDlet-1: MaxFPSTest,,MaxFPSTest
+MIDlet-Name: Max FPS Test
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Jar-URL: max_fps_tester.jar
